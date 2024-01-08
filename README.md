@@ -13,11 +13,16 @@
 
 <h1 align="center">hey there 👋</h1>
 <h3 align="left">🔭 In my spare time, I'm working on</h3>
-<h4 align="left"><a href="https://www.intellireading.com">Intellireading.com</a></h4>
+<h4 align="left"><a href="https://github.com/stars/0x6f677548/lists/my-reading-related-projects">Reading optimizing tools</a></h4>
+<h5 align="left"><a href="https://www.intellireading.com">Intellireading.com</a></h5>
 A book metaguiding tool to increase your reading focus and speed (frequently called Bionic Reading), particularly important for people affected with ADHD (Python, fastapi, OpenTelemetry, Jaeger, New Relic, nginx, unit) 
-<h4 align="left"><a href="https://github.com/0x6f677548/zerotrust-ca-powertoys">CA-PowerToys</a></h4>
+<h5 align="left"><a href="https://github.com/0x6f677548/intellireading-calibre-plugins">Intellireading Calibre Plugins</a></h5>
+Plugins for the popular ebook management software, that generate metaguided versions of your ebooks, by integrating a streamlined version of the Intellireading metaguiding algorithm.(Python)
+<h4 align="left"><a href="https://github.com/stars/0x6f677548/lists/my-zerotrust-projects">Zero Trust Tools</a></h4>
+<h5 align="left"><a href="https://github.com/0x6f677548/zerotrust-ca-powertoys">CA-PowerToys</a></h5>
 A set of tools to manage Azure AD Conditional Access, as part of a Policy-as-Code approach (Python, Hatch, click, pytest, docker, MS Graph API)
-<h4 align="left"><a href="https://github.com/0x6f677548/podshell">Podshell</a></h4>
+<h4 align="left">Dev, Secops & Devops tools</h4>
+<h5 align="left"><a href="https://github.com/0x6f677548/podshell">Podshell</a></h5>
 A utility to keep Docker container profiles in sync with your favorite Windows or MacOS terminal (Python, PySide)
 <h3 align="left">🛠 Language and tools</h3>
 
