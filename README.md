@@ -12,7 +12,7 @@
 ###
 
 <h1 align="center">hey there 👋</h1>
-<h3 align="left">🔭 In my spare time, I'm working in</h3>
+<h3 align="left">🔭 In my spare time, I'm working on</h3>
 <h4 align="left"><a href="https://www.intellireading.com">Intellireading.com</a></h4>
 A book metaguiding tool to increase your reading focus and speed (frequently called Bionic Reading), particularly important for people affected with ADHD (Python, fastapi, OpenTelemetry, Jaeger, New Relic, nginx, unit) 
 <h4 align="left"><a href="https://github.com/0x6f677548/zerotrust-ca-powertoys">CA-PowerToys</a></h4>
