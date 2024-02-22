@@ -14,8 +14,8 @@
 <h1 align="center">hey there 👋</h1>
 <h3 align="left">🔭 In my spare time, I'm working on</h3>
 <h4 align="left"><a href="https://github.com/stars/0x6f677548/lists/my-reading-related-projects">Reading optimizing tools</a></h4>
-<h5 align="left"><a href="https://www.intellireading.com">Intellireading.com</a></h5>
-A book metaguiding tool to increase your reading focus and speed (frequently called Bionic Reading), particularly important for people affected with ADHD (Python, fastapi, OpenTelemetry, Jaeger, New Relic, nginx, unit) 
+<h5 align="left"><a href="https://github.com/0x6f677548/intellireading-www">Intellireading.com</a></h5>
+A book metaguiding tool available at <a href="https://www.intellireading.com">intellireading.com</a> to increase your reading focus and speed (frequently called Bionic Reading), particularly important for people affected with ADHD (Python, fastapi, OpenTelemetry, Jaeger, New Relic, nginx, unit) 
 <h5 align="left"><a href="https://github.com/0x6f677548/intellireading-calibre-plugins">Intellireading Calibre Plugins</a></h5>
 Plugins for the popular ebook management software, that generate metaguided versions of your ebooks, by integrating a streamlined version of the Intellireading metaguiding algorithm.(Python)
 <h4 align="left"><a href="https://github.com/stars/0x6f677548/lists/my-zerotrust-projects">Zero Trust Tools</a></h4>
