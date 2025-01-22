@@ -24,6 +24,8 @@ A set of tools to manage Azure AD Conditional Access, as part of a Policy-as-Cod
 <h4 align="left">Dev, Secops & Devops tools</h4>
 <h5 align="left"><a href="https://github.com/0x6f677548/podshell">Podshell</a></h5>
 A utility to keep Docker container profiles in sync with your favorite Windows or MacOS terminal (Python, PySide)
+<h5 align="left"><a href="https://github.com/0x6f677548/fastapi-bootstrap">FastAPI Bootstrap</a></h5>
+A project template that bundles NGINX, FastAPI and OpenTelemetry, providing a bootstrap for anyone that wants to expose an API securely and with instrumentation.
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
