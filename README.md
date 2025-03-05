@@ -21,9 +21,11 @@ A book metaguiding tool available at <a href="https://www.intellireading.com">in
 <h4 align="left"><a href="https://github.com/stars/0x6f677548/lists/my-zerotrust-projects">Zero Trust Tools</a></h4>
 <h5 align="left"><a href="https://github.com/0x6f677548/zerotrust-ca-powertoys">CA-PowerToys</a></h5>
 A set of tools to manage Azure AD Conditional Access, as part of a Policy-as-Code approach (Python, Hatch, click, pytest, docker, MS Graph API)
-<h4 align="left">Dev, Secops & Devops tools</h4>
+<h4 align="left">Dev, Tools, Secops & Devops</h4>
 <h5 align="left"><a href="https://github.com/0x6f677548/podshell">Podshell</a></h5>
 A utility to keep Docker container profiles in sync with your favorite Windows or MacOS terminal (Python, PySide)
+<h5 align="left"><a href="https://github.com/0x6f677548/PowerToys-Run-PerplexitySearchShortcut">Perplexity Search Powertoys Run Plugin</a></h5>
+A plugin to allow search using Perplexity AI directly from PowerToys Run. Simply type the activation keyword followed by your search query, and the plugin will open Perplexity AI with your search term.
 <h5 align="left"><a href="https://github.com/0x6f677548/fastapi-bootstrap">FastAPI Bootstrap</a></h5>
 A project template that bundles NGINX, FastAPI and OpenTelemetry, providing a bootstrap for anyone that wants to expose an API securely and with instrumentation.
 <h3 align="left">🛠 Language and tools</h3>
