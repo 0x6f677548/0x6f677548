@@ -18,9 +18,11 @@
 A book metaguiding tool available at <a href="https://www.intellireading.com">intellireading.com</a> to increase your reading focus and speed (frequently called Bionic Reading), particularly important for people affected with ADHD. Built with Python, fastapi, OpenTelemetry, Jaeger, New Relic and nginx. Also <a href="https://github.com/0x6f677548/intellireading-cli">available as a CLI tool</a> or as a <a href="https://github.com/0x6f677548/intellireading-calibre-plugins">Calibre plugin</a>. 
 <h6 align="left"><a href="https://github.com/stars/0x6f677548/lists/intellireading">Intellireading tools and repos</a></h6>
 <ul> <li> <a href="https://github.com/0x6f677548/intellireading-www">Intellireading website:</a> Online tool that allows anyone to convert an Epub to the metaguided version. </li> <li> <a href="https://github.com/0x6f677548/intellireading-backend">Backend Server:</a> A FastAPI app that supports the Intellireading website, based on the <a href="https://github.com/0x6f677548/fastapi-bootstrap">FastAPI-Bootstrap</a> template</li> <li> <a href="https://github.com/0x6f677548/intellireading-cli">Client and Library:</a> A standalone tool and library that can be used to metaguide epub files. </li> <li> <a href="https://github.com/0x6f677548/intellireading-calibre-plugins">Calibre Plugins:</a> Plugins for the popular ebook management software, that generate metaguided versions of your ebooks, by integrating a streamlined version of the Intellireading metaguiding algorithm.(Python) </li> </ul>
-<h4 align="left"><a href="https://github.com/stars/0x6f677548/lists/my-zerotrust-projects">Zero Trust Tools</a></h4>
+<h4 align="left"><a href="https://github.com/stars/0x6f677548/lists/my-zerotrust-projects">Infosec and Zero Trust Tools</a></h4>
 <h5 align="left"><a href="https://github.com/0x6f677548/zerotrust-ca-powertoys">CA-PowerToys</a></h5>
 A set of tools to manage Azure AD Conditional Access, as part of a Policy-as-Code approach (Python, Hatch, click, pytest, docker, MS Graph API)
+<h5 align="left"><a href="https://github.com/0x6f677548/my-infosec-pocs">Infosec related PoCs</a></h5>
+PoCs, including AI exploitation or prompt injection
 <h4 align="left">Dev, Tools, Secops & Devops</h4>
 <h5 align="left"><a href="https://github.com/0x6f677548/podshell">Podshell</a></h5>
 A utility to keep Docker container profiles in sync with your favorite Windows or MacOS terminal (Python, PySide)
@@ -37,8 +39,6 @@ A project template that bundles NGINX, FastAPI and OpenTelemetry, providing a bo
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
@@ -52,6 +52,12 @@ A project template that bundles NGINX, FastAPI and OpenTelemetry, providing a bo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" alt="threejs logo"  /> 
 </div>
 
 
