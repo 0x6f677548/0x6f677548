@@ -21,7 +21,7 @@ A book metaguiding tool available at <a href="https://www.intellireading.com">in
 <h4 align="left"><a href="https://github.com/stars/0x6f677548/lists/my-zerotrust-projects">Infosec and Zero Trust Tools</a></h4>
 <h5 align="left"><a href="https://github.com/0x6f677548/zerotrust-ca-powertoys">CA-PowerToys</a></h5>
 A set of tools to manage Azure AD Conditional Access, as part of a Policy-as-Code approach (Python, Hatch, click, pytest, docker, MS Graph API)
-<h5 align="left"><a href="https://github.com/0x6f677548/lists/my-infosec-pocs">Infosec related PoCs</a></h5>
+<h5 align="left"><a href="https://github.com/stars/0x6f677548/lists/my-infosec-pocs">Infosec related PoCs</a></h5>
 PoCs, including AI exploitation or prompt injection
 <h4 align="left">Dev, Tools, Secops & Devops</h4>
 <h5 align="left"><a href="https://github.com/0x6f677548/podshell">Podshell</a></h5>
