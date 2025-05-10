@@ -19,7 +19,8 @@ A book metaguiding tool available at <a href="https://www.intellireading.com">in
 <h6 align="left"><a href="https://go.hugobatista.com/ghstars/lists/intellireading">Intellireading tools and repos</a></h6>
 <ul> <li> <a href="https://go.hugobatista.com/gh/intellireading-www">Intellireading website:</a> Online tool that allows anyone to convert an Epub to the metaguided version. </li> <li> <a href="https://go.hugobatista.com/gh/intellireading-api_server">API Server:</a> A FastAPI app that supports the Intellireading website, based on the <a href="https://go.hugobatista.com/gh/fastapi-bootstrap">FastAPI-Bootstrap</a> template</li> <li> <a href="https://go.hugobatista.com/gh/intellireading-cli">Client and Library:</a> A standalone tool and library that can be used to metaguide epub files. </li> <li> <a href="https://go.hugobatista.com/gh/intellireading-calibre-plugins">Calibre Plugins:</a> Plugins for the popular ebook management software, that generate metaguided versions of your ebooks, by integrating a streamlined version of the Intellireading metaguiding algorithm.(Python) </li> </ul>
 <h4 align="left">Game development</h4>
-<h5 align="left"><a href="https://bouncy-dash.hugobatista.com/">Bouncy Dash</a></h5>
+<h5 align="left"><a href="https://bouncy-dash.hugobatista.com/"><img alt="Bouncy Dash" src="https://bouncy-dash.hugobatista.com/bouncy-dash-social.jpg" style="width: 165px;"></a></h5>
+
 Bouncy Dash is a whimsical 3D browser game written with ThreeJS, where players guide Bouncy the Rabbit through magical lands, collecting Magic Carrots to save a village festival. This was my first game development project, and I learned a lot about game development and ThreeJS.
 <h4 align="left"><a href="https://go.hugobatista.com/ghstars/lists/my-zerotrust-projects">Infosec and Zero Trust Tools</a></h4>
 <h5 align="left"><a href="https://go.hugobatista.com/gh/zerotrust-ca-powertoys">CA-PowerToys</a></h5>
