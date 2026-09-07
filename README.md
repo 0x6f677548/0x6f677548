@@ -51,6 +51,7 @@ Whimsical 3D game built with **ThreeJS**. Guide Bouncy the Rabbit through magica
 - <img src="https://fastapi.tiangolo.com/img/icon-white.svg" height="18" alt="FastAPI icon" style="vertical-align:middle; margin-right:6px;" /> [**FastAPI Bootstrap**](https://go.hugobatista.com/github/fastapi-bootstrap) – Project template with NGINX, FastAPI, and OpenTelemetry
 - ⚡ [**git-utils**](https://go.hugobatista.com/gh/git-utils) - Useful Git and Github scripts for daily devops work
 - 🛡️ [**slimproxy**](https://go.hugobatista.com/github/slimproxy) – Lightweight forward proxy with IP, auth, and destination filtering
+- 🏷️ [**opencode-peak-badge**](https://go.hugobatista.com/github/opencode-peak-badge) – OpenCode TUI plugin that shows a `[PEAK]` / `[OFF-PEAK]` badge next to the model name, so you always know when the active model is billed at peak rates
 
 ## 📚 Utilities & Integrations
 
