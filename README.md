@@ -21,7 +21,7 @@ Bionic reading metaguiding tool to enhance reading focus and speed, particularly
 
 Find the cheapest way to run any model. Compares real-world LLM pricing across gateways — subscription plans and pay-per-use APIs — in one sortable table, with effective costs, reseller fee + tax markups, and daily automated refresh.
 
-[Website](https://hugobatista.github.io/deepfrugal/)
+[Website](https://go.hugobatista.com/deepfrugal)
 
 ## 🎮 Games & Fun
 
